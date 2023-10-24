@@ -2,6 +2,11 @@
 
 Offcial website of the CICADA project built on [Bulma](https://bulma.io/). See [here](https://cicada.web.cern.ch/). Hosted on CERN EOS: `/eos/project/c/cicada-project/www`. All the changes must be pulled to that directory to take effect.
 
+## QR Code
+It can be useful to include this QR code in the slides:
+
+![QR Code](assets/qr-cicada.png)
+
 ## Credits
 The media used on this website, attibuted to thrid parties:
 - background Cicada video by [Alban Gogh](https://pixabay.com/users/alban_gogh-28413822/),
